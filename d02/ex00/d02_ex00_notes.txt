@@ -1,0 +1,34 @@
+
+
+d02_ex00: ft_print_alphabet - notes
+
+
+Hive/42 is very specific about whether to turn in a working program or just some function within it. If asked for a function and you turn in the rest of your work, you might be graded 0 (aka "RTFM!"):
+
+"You’ll only have to submit a main() function if we ask for a program."
+
+
+Here, you can compile all in one file to check it works and then remove all but ft_print_alphabet.c for submission:
+
+gcc -W -Wall -Wextra -Werror main_one_file.c
+(only called main_one_file.c to keep it distinct from main.c below)
+
+This creates an executable called main_one_file. Running ./main_one_file prints: abcdefghijklmnopqrstuvwxyz%
+
+If you want your executive to have another name, add -o (somename) to the above.
+gcc -W -Wall -Wextra -Werror main_one_file.c -o one_main_file
+
+This creates an executable called one_main_file, which you can fun as above.
+
+
+You can also compile by writing separate function files which you can re-use in later exercises - main.c, ft_print_alphanet.c ft_putchar.c - linking them at the compile stage and removing them from the folder upon submission (having extra work files in your submission folder, or leaving out the school header, may also result in 0 points):
+
+gcc -Werror -W -Wextra -Wall main.c ft_print_alphabet.c ft_putchar.c
+
+
+This creates the standard C executable called a.out. Running ./a.out prints: 
+abcdefghijklmnopqrstuvwxyz%
+
+
+
+

@@ -1,0 +1,6 @@
+Credentials cache: API:XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+        Principal: XXXXX@HIVE.FI
+
+  Issued                Expires               Principal
+Aug 12 18:08:52 2019  Aug 13 04:08:52 2019  XXXXX/HIVE.FI@HIVE.FI
+Aug 12 19:08:09 2019  Aug 13 04:08:52 2019  XXXX/XXXXX.XXX.XXX@HIVE.FI
