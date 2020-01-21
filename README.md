@@ -9,9 +9,9 @@ https://www.hive.fi/en/
 
 
 ## Correct order of the files 
-- weeks include days (d00-d13), friday exams and weekend projects (individual and group 'rush projects')
+weeks include days (d00-d13), friday exams and weekend projects (individual and group 'rush projects')
 
-Week 1 
+- Week 1 
 d00 - d04
 Exam00
 Rush00
