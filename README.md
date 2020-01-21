@@ -9,7 +9,7 @@ https://www.hive.fi/en/
 
 
 ## Correct order of the files 
-weeks include days (d00-d13), friday exams and weekend projects (individual and group 'rush projects')
+Weeks include days (d00-d13), friday exams and weekend projects (individual and group 'rush projects')
 
 - Week 1 
 d00 - d04
@@ -17,18 +17,18 @@ Exam00
 Rush00
 Sastantua
 
-Week 2
+- Week 2
 d05 - d09
 Exam01
 Rush01
 Match-n-Match
 
-Week 3
+- Week 3
 d10 - d13
 Exam02
 Rush02
 EvalExpr
 
-Week 4
+- Week 4
 BSQ
 ExamFinal
