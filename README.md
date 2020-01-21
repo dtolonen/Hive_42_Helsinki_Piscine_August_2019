@@ -1,4 +1,4 @@
-## Hive Helsinki / 42 Piscine (August 2019)
+## Hive Helsinki / 42 Piscine August 2019
 
 - Bash and C: work from the 42/Hive Helsinki Piscine intensive bootcamp in August 2019 
 - I am going over my exercises again, so everything here is 'work-in-process'
