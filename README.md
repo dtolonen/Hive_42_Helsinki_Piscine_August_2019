@@ -8,7 +8,7 @@
 https://www.hive.fi/en/
 
 
-## Order of the files 
+## Correct order of the files 
 - weeks include days (d00-d13), friday exams and weekend projects (individual and group 'rush projects')
 
 Week 1 
