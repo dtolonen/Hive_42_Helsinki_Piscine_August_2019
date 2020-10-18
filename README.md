@@ -1,5 +1,7 @@
 ## Hive Helsinki / 42 Piscine August 2019
 
+#### #workinprogress
+
 - Bash and C: work from the 42/Hive Helsinki Piscine intensive bootcamp in August 2019 
 - I am going over my exercises again, so everything here is 'work-in-process'
 - the classic 'École 42 code copy/paste warning' applies: if you're currently on the Piscine and copy any of the code, beware! Some of the code may have been intentionally altered/disabled - and some just plain 'ol waiting to be fixed...   
