@@ -40,5 +40,5 @@ ExamFinal
 
 <br>
 
-## For information about Hive Helsinki: 
+## For more information about Hive Helsinki: 
 https://www.hive.fi/en/
