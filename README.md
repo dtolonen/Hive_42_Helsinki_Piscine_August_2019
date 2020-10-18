@@ -16,10 +16,7 @@
 Weeks include days (d00-d13), friday exams and weekend projects (individual and group 'rush projects')
 
 - Week 1 
-d00 - d04
-Exam00
-Rush00
-Sastantua
+d00 - d04, Exam00, Rush00 & Sastantua
 
 - Week 2
 d05 - d09
